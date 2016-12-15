@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import java.sql.*;
 
-public class H2JdbcTest {
+public class JdbcTestWithoutExceptionHandling {
 
 	@Test
 	public void test() throws SQLException {
